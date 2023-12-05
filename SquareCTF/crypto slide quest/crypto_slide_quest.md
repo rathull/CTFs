@@ -55,6 +55,7 @@ We see that $a\oplus b \oplus b=a$, so XOR is also *self-inverting*. This means 
 
 ### Reversing our Key
 Using our XOR sliding window, we can derive the following equations from the encryption loop in our provided encryption program. Let the key consist of character variables labeled a-f:
+
 \[
     \text{flag[0]}\oplus a=\text{c[0]} \\
     \text{flag[1]}\oplus a\oplus b=\text{c[1]} \\
@@ -66,6 +67,7 @@ Using our XOR sliding window, we can derive the following equations from the enc
 \]
 
 Using the commutative property of XOR, we can reorganize these as:
+
 \[
     a\oplus \text{flag[0]}=\text{c[0]} \\
     a\oplus b\oplus \text{flag[1]}=\text{c[1]} \\
@@ -77,6 +79,7 @@ Using the commutative property of XOR, we can reorganize these as:
 \]
 
 Using the self-inverting property, we can move all our known values to one side of this system:
+
 \[
     a\oplus \text{flag[0]}\oplus \text{flag[0]}=a=\text{c[0]}\oplus \text{flag[0]} \\
     a\oplus b\oplus \text{flag[1]}\oplus \text{flag[1]}=a\oplus b=\text{c[1]} \oplus \text{flag[1]}\\
@@ -86,7 +89,9 @@ Using the self-inverting property, we can move all our known values to one side 
     \ldots \\
     g\oplus \text{flag[-1]}\oplus \text{flag[-1]}=g=\text{c[-1]}\oplus \text{flag[-1]} \\
 \]
+
 And using the commutative property again:
+
 \[
     a=\text{c[0]}\oplus \text{flag[0]} \\
     b=\text{c[1]} \oplus \text{flag[1]}\oplus a\\
@@ -96,6 +101,7 @@ And using the commutative property again:
     \ldots \\
     g=\text{c[-1]}\oplus \text{flag[-1]}
 \]
+
 This is a recurrence we can calculate using a simple Python script. Once we have the key, we can use it with the ciphertext to reverse the encryption algorithm.
 
 ### Solution Script
