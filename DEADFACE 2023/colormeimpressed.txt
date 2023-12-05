@@ -1,0 +1,19 @@
+https://ghosttown.deadface.io/t/chickens-cant-fly-but-these-ones-do-a-lot/128
+/Users/rathul/Documents/Cybersecurity/DEADFACE 2023/colormeimpressed.txt
+We have a zip file flight_logs.zip and need the password to decrypt it
+
+Password is shared as an image with color blocks:
+79, 107, 68
+53, 53, 71
+60, 115, 48
+49, 37, 112
+85, 109, 58
+88, 108, 69,
+66, 103, 31
+
+79, 107, 68, 53, 53, 71, 60, 115, 48, 49, 37, 112, 85, 109, 58, 88, 108, 69, 66, 103, 31
+79 107 68 53 53 71 60 115 48 49 37 112 85 109 58 88 108 69 66 103 31
+4f 6b 44 35 35 47 3c 73 30 31 25 70 55 6d 3a 58 6c 45 42 67 1f
+
+791076853537160115484937112851095888108696610331
+4f6b443535473c7330312570556d3a586c4542671f
