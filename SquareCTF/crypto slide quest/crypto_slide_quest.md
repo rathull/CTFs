@@ -101,7 +101,6 @@ And using the commutative property again:
     \ldots \\
     g=\text{c[-1]}\oplus \text{flag[-1]}
 \]
-
 This is a recurrence we can calculate using a simple Python script. Once we have the key, we can use it with the ciphertext to reverse the encryption algorithm.
 
 ### Solution Script
