@@ -1,0 +1,6 @@
+----Solve like a regular RSA problem---
+Encryption
+c = (um-v)^e (mod n)
+- The key is generated with e = u+v, NOT by picking d and finding de = 1
+- What could d be? The decryption key where
+(um-v)

@@ -1,0 +1,22 @@
+I tried to find the key by finding a subset of the numbers in the sum that sum to k.
+
+ECB cipher attacking https://www.youtube.com/watch?v=unn09JYIjOI
+- Encryption doesn't diffuse
+- Same input --> same key
+- There is a predictable output for each block we can list as a map
+
+An attacker could
+- Identify it two ECB messages are the same
+- Identify if two ECM messages contain similar substrings if they are block aligned
+- Identify repeated data in a message 
+- Create "faked" ciphertexts due to independent encryption and decryption
+
+
+We know the block size is 16 bytes for this cipher
+==> due to this line ensuring our code's input size is mod 16
+==> padded_flag = flag + b'\x00'*(-len(flag)%16)
+
+'flag' is 4 bytes
+
+Note: in ECB mode, the order of the blocks doesn't matter
+As long as the padding in the final block is correct, the blocks can be decrypted in any order

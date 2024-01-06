@@ -5,5 +5,8 @@ n = 1557352891329815440110171893917602716454479833105329291870343149340774429301
 e = 3
 
 m = iroot(c, e)
-m = long_to_bytes(m[0]).decode()
-print(m)
+# m = long_to_bytes(m[0]).decode()
+print(m[0])
+print(int(c**(1/3)))
+# print(long_to_bytes(int(c**(1/3))).decode())
+# print(m)
