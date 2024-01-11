@@ -1,0 +1,96 @@
+<filename>90622028.jpg</filename>
+<folder>/l/laundromat</folder>
+<class>60</class>
+<objects>
+	<class>169</class>
+	<polygon>
+		<pt>
+			<x>20</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>20</x>
+			<y>6</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>7</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>1</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>20</xmin>
+		<xmax>128</xmax>
+		<ymin>1</ymin>
+		<ymax>7</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>169</class>
+	<polygon>
+		<pt>
+			<x>1</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>20</x>
+			<y>2</y>
+		</pt>
+		<pt>
+			<x>20</x>
+			<y>54</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>76</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>20</xmax>
+		<ymin>1</ymin>
+		<ymax>76</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>61</class>
+	<polygon>
+		<pt>
+			<x>45</x>
+			<y>128</y>
+		</pt>
+		<pt>
+			<x>39</x>
+			<y>127</y>
+		</pt>
+		<pt>
+			<x>45</x>
+			<y>108</y>
+		</pt>
+		<pt>
+			<x>44</x>
+			<y>96</y>
+		</pt>
+		<pt>
+			<x>100</x>
+			<y>94</y>
+		</pt>
+		<pt>
+			<x>99</x>
+			<y>109</y>
+		</pt>
+		<pt>
+			<x>107</x>
+			<y>128</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>39</xmin>
+		<xmax>107</xmax>
+		<ymin>94</ymin>
+		<ymax>128</ymax>
+	</bndbox>
+</objects>

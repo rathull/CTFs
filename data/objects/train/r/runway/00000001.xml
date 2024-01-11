@@ -1,0 +1,76 @@
+<filename>32793796.jpg</filename>
+<folder>/r/runway</folder>
+<class>81</class>
+<objects>
+	<class>67</class>
+	<polygon>
+		<pt>
+			<x>1</x>
+			<y>63</y>
+		</pt>
+		<pt>
+			<x>42</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>19</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>15</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>42</xmax>
+		<ymin>1</ymin>
+		<ymax>63</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>67</class>
+	<polygon>
+		<pt>
+			<x>128</x>
+			<y>20</y>
+		</pt>
+		<pt>
+			<x>108</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>1</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>108</xmin>
+		<xmax>128</xmax>
+		<ymin>1</ymin>
+		<ymax>20</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>94</class>
+	<polygon>
+		<pt>
+			<x>1</x>
+			<y>14</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>18</x>
+			<y>1</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>18</xmax>
+		<ymin>1</ymin>
+		<ymax>14</ymax>
+	</bndbox>
+</objects>

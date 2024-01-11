@@ -1,0 +1,96 @@
+<filename>64419351.jpg</filename>
+<folder>/b/boxing_ring</folder>
+<class>23</class>
+<objects>
+	<class>34</class>
+	<polygon>
+		<pt>
+			<x>1</x>
+			<y>42</y>
+		</pt>
+		<pt>
+			<x>118</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>1</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>118</xmax>
+		<ymin>1</ymin>
+		<ymax>42</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>169</class>
+	<polygon>
+		<pt>
+			<x>1</x>
+			<y>103</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>42</y>
+		</pt>
+		<pt>
+			<x>118</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>118</y>
+		</pt>
+		<pt>
+			<x>46</x>
+			<y>102</y>
+		</pt>
+		<pt>
+			<x>45</x>
+			<y>105</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>128</xmax>
+		<ymin>1</ymin>
+		<ymax>118</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>61</class>
+	<polygon>
+		<pt>
+			<x>1</x>
+			<y>110</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>103</y>
+		</pt>
+		<pt>
+			<x>34</x>
+			<y>105</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>116</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>112</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>34</xmax>
+		<ymin>103</ymin>
+		<ymax>116</ymax>
+	</bndbox>
+</objects>

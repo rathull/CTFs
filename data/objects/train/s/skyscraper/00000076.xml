@@ -1,0 +1,81 @@
+<filename>52817518.jpg</filename>
+<folder>/s/skyscraper</folder>
+<class>85</class>
+<objects>
+	<class>136</class>
+	<polygon>
+		<pt>
+			<x>128</x>
+			<y>121</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>2</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>2</x>
+			<y>106</y>
+		</pt>
+		<pt>
+			<x>20</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>95</x>
+			<y>2</y>
+		</pt>
+		<pt>
+			<x>101</x>
+			<y>5</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>2</xmin>
+		<xmax>128</xmax>
+		<ymin>1</ymin>
+		<ymax>121</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>23</class>
+	<polygon>
+		<pt>
+			<x>2</x>
+			<y>128</y>
+		</pt>
+		<pt>
+			<x>2</x>
+			<y>107</y>
+		</pt>
+		<pt>
+			<x>20</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>95</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>101</x>
+			<y>4</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>120</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>128</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>2</xmin>
+		<xmax>128</xmax>
+		<ymin>1</ymin>
+		<ymax>128</ymax>
+	</bndbox>
+</objects>

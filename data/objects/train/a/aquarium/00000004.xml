@@ -1,0 +1,30 @@
+<filename>18665326.jpg</filename>
+<folder>/a/aquarium</folder>
+<class>4</class>
+<objects>
+	<class>61</class>
+	<polygon>
+		<pt>
+			<x>1</x>
+			<y>128</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>105</y>
+		</pt>
+		<pt>
+			<x>27</x>
+			<y>104</y>
+		</pt>
+		<pt>
+			<x>44</x>
+			<y>128</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>44</xmax>
+		<ymin>104</ymin>
+		<ymax>128</ymax>
+	</bndbox>
+</objects>

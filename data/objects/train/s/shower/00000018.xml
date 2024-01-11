@@ -1,0 +1,100 @@
+<filename>20650743.jpg</filename>
+<folder>/s/shower</folder>
+<class>83</class>
+<objects>
+	<class>169</class>
+	<polygon>
+		<pt>
+			<x>127</x>
+			<y>128</y>
+		</pt>
+		<pt>
+			<x>127</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>127</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>108</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>109</x>
+			<y>125</y>
+		</pt>
+		<pt>
+			<x>23</x>
+			<y>108</y>
+		</pt>
+		<pt>
+			<x>22</x>
+			<y>115</y>
+		</pt>
+		<pt>
+			<x>82</x>
+			<y>128</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>22</xmin>
+		<xmax>127</xmax>
+		<ymin>1</ymin>
+		<ymax>128</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>61</class>
+	<polygon>
+		<pt>
+			<x>1</x>
+			<y>128</y>
+		</pt>
+		<pt>
+			<x>22</x>
+			<y>116</y>
+		</pt>
+		<pt>
+			<x>79</x>
+			<y>128</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>79</xmax>
+		<ymin>116</ymin>
+		<ymax>128</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>169</class>
+	<polygon>
+		<pt>
+			<x>1</x>
+			<y>126</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>128</y>
+		</pt>
+		<pt>
+			<x>22</x>
+			<y>116</y>
+		</pt>
+		<pt>
+			<x>22</x>
+			<y>110</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>121</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>22</xmax>
+		<ymin>110</ymin>
+		<ymax>128</ymax>
+	</bndbox>
+</objects>

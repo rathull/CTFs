@@ -1,0 +1,127 @@
+<filename>64900246.jpg</filename>
+<folder>/c/coast</folder>
+<class>35</class>
+<objects>
+	<class>136</class>
+	<polygon>
+		<pt>
+			<x>1</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>85</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>85</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>1</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>128</xmax>
+		<ymin>1</ymin>
+		<ymax>85</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>115</class>
+	<polygon>
+		<pt>
+			<x>10</x>
+			<y>88</y>
+		</pt>
+		<pt>
+			<x>33</x>
+			<y>86</y>
+		</pt>
+		<pt>
+			<x>3</x>
+			<y>85</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>85</y>
+		</pt>
+		<pt>
+			<x>2</x>
+			<y>89</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>33</xmax>
+		<ymin>85</ymin>
+		<ymax>89</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>118</class>
+	<polygon>
+		<pt>
+			<x>123</x>
+			<y>89</y>
+		</pt>
+		<pt>
+			<x>6</x>
+			<y>89</y>
+		</pt>
+		<pt>
+			<x>34</x>
+			<y>85</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>85</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>89</y>
+		</pt>
+		<pt>
+			<x>123</x>
+			<y>90</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>6</xmin>
+		<xmax>128</xmax>
+		<ymin>85</ymin>
+		<ymax>90</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>122</class>
+	<polygon>
+		<pt>
+			<x>128</x>
+			<y>128</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>89</y>
+		</pt>
+		<pt>
+			<x>17</x>
+			<y>89</y>
+		</pt>
+		<pt>
+			<x>2</x>
+			<y>88</y>
+		</pt>
+		<pt>
+			<x>2</x>
+			<y>128</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>2</xmin>
+		<xmax>128</xmax>
+		<ymin>88</ymin>
+		<ymax>128</ymax>
+	</bndbox>
+</objects>

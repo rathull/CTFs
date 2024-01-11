@@ -1,0 +1,31 @@
+<filename>55959748.jpg</filename>
+<folder>/k/kitchen</folder>
+<scenedescription>static_web_indoor_home indoor_0543.jpg</scenedescription>
+<class>59</class>
+<objects>
+	<class>61</class>
+	<polygon>
+		<pt>
+			<x>1</x>
+			<y>127</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>69</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>68</y>
+		</pt>
+		<pt>
+			<x>127</x>
+			<y>127</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>128</xmax>
+		<ymin>68</ymin>
+		<ymax>127</ymax>
+	</bndbox>
+</objects>

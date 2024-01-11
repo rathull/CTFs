@@ -1,0 +1,115 @@
+<filename>93302456.jpg</filename>
+<folder>/s/supermarket</folder>
+<class>91</class>
+<objects>
+	<class>34</class>
+	<polygon>
+		<pt>
+			<x>128</x>
+			<y>24</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>2</x>
+			<y>8</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>128</xmax>
+		<ymin>1</ymin>
+		<ymax>24</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>130</class>
+	<polygon>
+		<pt>
+			<x>1</x>
+			<y>125</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>8</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>24</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>113</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>128</xmax>
+		<ymin>8</ymin>
+		<ymax>125</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>61</class>
+	<polygon>
+		<pt>
+			<x>128</x>
+			<y>128</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>112</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>125</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>128</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>128</xmax>
+		<ymin>112</ymin>
+		<ymax>128</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>134</class>
+	<polygon>
+		<pt>
+			<x>107</x>
+			<y>13</y>
+		</pt>
+		<pt>
+			<x>108</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>90</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>89</x>
+			<y>15</y>
+		</pt>
+		<pt>
+			<x>91</x>
+			<y>15</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>89</xmin>
+		<xmax>108</xmax>
+		<ymin>1</ymin>
+		<ymax>15</ymax>
+	</bndbox>
+</objects>

@@ -1,0 +1,65 @@
+<filename>66821582.jpg</filename>
+<folder>/s/shower</folder>
+<class>83</class>
+<objects>
+	<class>169</class>
+	<polygon>
+		<pt>
+			<x>1</x>
+			<y>128</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>125</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>125</x>
+			<y>7</y>
+		</pt>
+		<pt>
+			<x>23</x>
+			<y>6</y>
+		</pt>
+		<pt>
+			<x>23</x>
+			<y>128</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>125</xmax>
+		<ymin>1</ymin>
+		<ymax>128</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>169</class>
+	<polygon>
+		<pt>
+			<x>128</x>
+			<y>128</y>
+		</pt>
+		<pt>
+			<x>124</x>
+			<y>124</y>
+		</pt>
+		<pt>
+			<x>125</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>1</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>124</xmin>
+		<xmax>128</xmax>
+		<ymin>1</ymin>
+		<ymax>128</ymax>
+	</bndbox>
+</objects>

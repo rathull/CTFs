@@ -1,0 +1,84 @@
+<filename>27322092.jpg</filename>
+<folder>/l/locker_room</folder>
+<class>64</class>
+<objects>
+	<class>169</class>
+	<polygon>
+		<pt>
+			<x>1</x>
+			<y>55</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>54</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>128</xmax>
+		<ymin>1</ymin>
+		<ymax>55</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>10</class>
+	<polygon>
+		<pt>
+			<x>1</x>
+			<y>69</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>55</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>54</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>67</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>128</xmax>
+		<ymin>54</ymin>
+		<ymax>69</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>61</class>
+	<polygon>
+		<pt>
+			<x>1</x>
+			<y>128</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>69</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>67</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>128</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>128</xmax>
+		<ymin>67</ymin>
+		<ymax>128</ymax>
+	</bndbox>
+</objects>

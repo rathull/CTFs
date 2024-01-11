@@ -1,0 +1,53 @@
+<filename>41380611.jpg</filename>
+<folder>/b/bathroom</folder>
+<class>16</class>
+<objects>
+	<class>169</class>
+	<polygon>
+		<pt>
+			<x>1</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>114</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>107</x>
+			<y>76</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>100</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>114</xmax>
+		<ymin>1</ymin>
+		<ymax>100</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>61</class>
+	<polygon>
+		<pt>
+			<x>128</x>
+			<y>128</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>121</y>
+		</pt>
+		<pt>
+			<x>112</x>
+			<y>128</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>112</xmin>
+		<xmax>128</xmax>
+		<ymin>121</ymin>
+		<ymax>128</ymax>
+	</bndbox>
+</objects>

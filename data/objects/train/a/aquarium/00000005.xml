@@ -1,0 +1,46 @@
+<filename>56569885.jpg</filename>
+<folder>/a/aquarium</folder>
+<class>4</class>
+<objects>
+	<class>169</class>
+	<polygon>
+		<pt>
+			<x>1</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>26</y>
+		</pt>
+		<pt>
+			<x>27</x>
+			<y>24</y>
+		</pt>
+		<pt>
+			<x>59</x>
+			<y>22</y>
+		</pt>
+		<pt>
+			<x>86</x>
+			<y>21</y>
+		</pt>
+		<pt>
+			<x>109</x>
+			<y>21</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>22</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>1</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>128</xmax>
+		<ymin>1</ymin>
+		<ymax>26</ymax>
+	</bndbox>
+</objects>

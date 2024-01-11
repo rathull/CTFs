@@ -1,0 +1,57 @@
+<filename>82366449.jpg</filename>
+<folder>/b/bar</folder>
+<class>14</class>
+<objects>
+	<class>169</class>
+	<polygon>
+		<pt>
+			<x>39</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>112</y>
+		</pt>
+		<pt>
+			<x>37</x>
+			<y>108</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>39</xmax>
+		<ymin>1</ymin>
+		<ymax>112</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>169</class>
+	<polygon>
+		<pt>
+			<x>128</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>39</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>37</x>
+			<y>107</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>123</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>37</xmin>
+		<xmax>128</xmax>
+		<ymin>1</ymin>
+		<ymax>123</ymax>
+	</bndbox>
+</objects>

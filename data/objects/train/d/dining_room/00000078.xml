@@ -1,0 +1,115 @@
+<filename>91770141.jpg</filename>
+<folder>/d/dining_room</folder>
+<class>45</class>
+<objects>
+	<class>169</class>
+	<polygon>
+		<pt>
+			<x>128</x>
+			<y>97</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>23</x>
+			<y>2</y>
+		</pt>
+		<pt>
+			<x>26</x>
+			<y>66</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>23</xmin>
+		<xmax>128</xmax>
+		<ymin>1</ymin>
+		<ymax>97</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>169</class>
+	<polygon>
+		<pt>
+			<x>2</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>23</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>27</x>
+			<y>66</y>
+		</pt>
+		<pt>
+			<x>2</x>
+			<y>75</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>2</xmin>
+		<xmax>27</xmax>
+		<ymin>1</ymin>
+		<ymax>75</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>61</class>
+	<polygon>
+		<pt>
+			<x>128</x>
+			<y>128</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>98</y>
+		</pt>
+		<pt>
+			<x>126</x>
+			<y>97</y>
+		</pt>
+		<pt>
+			<x>122</x>
+			<y>128</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>122</xmin>
+		<xmax>128</xmax>
+		<ymin>97</ymin>
+		<ymax>128</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>66</class>
+	<polygon>
+		<pt>
+			<x>12</x>
+			<y>45</y>
+		</pt>
+		<pt>
+			<x>12</x>
+			<y>55</y>
+		</pt>
+		<pt>
+			<x>18</x>
+			<y>54</y>
+		</pt>
+		<pt>
+			<x>19</x>
+			<y>48</y>
+		</pt>
+		<pt>
+			<x>17</x>
+			<y>44</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>12</xmin>
+		<xmax>19</xmax>
+		<ymin>44</ymin>
+		<ymax>55</ymax>
+	</bndbox>
+</objects>

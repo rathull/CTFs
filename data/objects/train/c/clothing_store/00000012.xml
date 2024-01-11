@@ -1,0 +1,123 @@
+<filename>25831715.jpg</filename>
+<folder>/c/clothing_store</folder>
+<class>34</class>
+<objects>
+	<class>126</class>
+	<polygon>
+		<pt>
+			<x>2</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>66</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>57</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>128</xmax>
+		<ymin>1</ymin>
+		<ymax>66</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>81</class>
+	<polygon>
+		<pt>
+			<x>13</x>
+			<y>5</y>
+		</pt>
+		<pt>
+			<x>2</x>
+			<y>5</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>78</y>
+		</pt>
+		<pt>
+			<x>14</x>
+			<y>75</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>14</xmax>
+		<ymin>5</ymin>
+		<ymax>78</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>169</class>
+	<polygon>
+		<pt>
+			<x>128</x>
+			<y>74</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>2</y>
+		</pt>
+		<pt>
+			<x>14</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>16</x>
+			<y>110</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>119</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>14</xmin>
+		<xmax>128</xmax>
+		<ymin>1</ymin>
+		<ymax>119</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>61</class>
+	<polygon>
+		<pt>
+			<x>1</x>
+			<y>128</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>119</y>
+		</pt>
+		<pt>
+			<x>15</x>
+			<y>108</y>
+		</pt>
+		<pt>
+			<x>16</x>
+			<y>110</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>119</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>128</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>128</xmax>
+		<ymin>108</ymin>
+		<ymax>128</ymax>
+	</bndbox>
+</objects>

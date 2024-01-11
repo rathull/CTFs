@@ -1,0 +1,57 @@
+<filename>87551606.jpg</filename>
+<folder>/c/coast</folder>
+<class>35</class>
+<objects>
+	<class>136</class>
+	<polygon>
+		<pt>
+			<x>2</x>
+			<y>67</y>
+		</pt>
+		<pt>
+			<x>2</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>69</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>2</xmin>
+		<xmax>128</xmax>
+		<ymin>1</ymin>
+		<ymax>69</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>122</class>
+	<polygon>
+		<pt>
+			<x>2</x>
+			<y>128</y>
+		</pt>
+		<pt>
+			<x>2</x>
+			<y>68</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>69</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>128</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>2</xmin>
+		<xmax>128</xmax>
+		<ymin>68</ymin>
+		<ymax>128</ymax>
+	</bndbox>
+</objects>

@@ -1,0 +1,84 @@
+<filename>30843187.jpg</filename>
+<folder>/b/bathroom</folder>
+<class>16</class>
+<objects>
+	<class>169</class>
+	<polygon>
+		<pt>
+			<x>30</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>89</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>86</x>
+			<y>128</y>
+		</pt>
+		<pt>
+			<x>35</x>
+			<y>128</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>30</xmin>
+		<xmax>89</xmax>
+		<ymin>1</ymin>
+		<ymax>128</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>169</class>
+	<polygon>
+		<pt>
+			<x>128</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>111</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>106</x>
+			<y>128</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>128</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>106</xmin>
+		<xmax>128</xmax>
+		<ymin>1</ymin>
+		<ymax>128</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>169</class>
+	<polygon>
+		<pt>
+			<x>1</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>30</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>35</x>
+			<y>128</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>128</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>35</xmax>
+		<ymin>1</ymin>
+		<ymax>128</ymax>
+	</bndbox>
+</objects>

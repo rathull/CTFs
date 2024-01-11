@@ -1,0 +1,73 @@
+<filename>52532400.jpg</filename>
+<folder>/b/bamboo_forest</folder>
+<class>12</class>
+<objects>
+	<class>164</class>
+	<polygon>
+		<pt>
+			<x>1</x>
+			<y>128</y>
+		</pt>
+		<pt>
+			<x>117</x>
+			<y>128</y>
+		</pt>
+		<pt>
+			<x>125</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>17</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>2</x>
+			<y>72</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>125</xmax>
+		<ymin>1</ymin>
+		<ymax>128</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>164</class>
+	<polygon>
+		<pt>
+			<x>1</x>
+			<y>34</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>22</y>
+		</pt>
+		<pt>
+			<x>5</x>
+			<y>9</y>
+		</pt>
+		<pt>
+			<x>6</x>
+			<y>9</y>
+		</pt>
+		<pt>
+			<x>5</x>
+			<y>6</y>
+		</pt>
+		<pt>
+			<x>6</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>10</x>
+			<y>1</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>10</xmax>
+		<ymin>1</ymin>
+		<ymax>34</ymax>
+	</bndbox>
+</objects>

@@ -1,0 +1,92 @@
+<filename>21070970.jpg</filename>
+<folder>/b/bar</folder>
+<class>14</class>
+<objects>
+	<class>34</class>
+	<polygon>
+		<pt>
+			<x>128</x>
+			<y>10</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>2</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>9</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>128</xmax>
+		<ymin>1</ymin>
+		<ymax>10</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>42</class>
+	<polygon>
+		<pt>
+			<x>102</x>
+			<y>13</y>
+		</pt>
+		<pt>
+			<x>102</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>123</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>122</x>
+			<y>47</y>
+		</pt>
+		<pt>
+			<x>100</x>
+			<y>47</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>100</xmin>
+		<xmax>123</xmax>
+		<ymin>1</ymin>
+		<ymax>47</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>169</class>
+	<polygon>
+		<pt>
+			<x>128</x>
+			<y>26</y>
+		</pt>
+		<pt>
+			<x>127</x>
+			<y>9</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>9</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>94</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>112</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>128</xmax>
+		<ymin>9</ymin>
+		<ymax>112</ymax>
+	</bndbox>
+</objects>

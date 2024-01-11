@@ -1,0 +1,26 @@
+<filename>63849953.jpg</filename>
+<folder>/s/ski_slope</folder>
+<class>84</class>
+<objects>
+	<class>136</class>
+	<polygon>
+		<pt>
+			<x>128</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>112</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>6</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>112</xmin>
+		<xmax>128</xmax>
+		<ymin>1</ymin>
+		<ymax>6</ymax>
+	</bndbox>
+</objects>

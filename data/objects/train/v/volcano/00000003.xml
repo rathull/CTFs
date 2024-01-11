@@ -1,0 +1,50 @@
+<filename>95677097.jpg</filename>
+<folder>/v/volcano</folder>
+<class>98</class>
+<objects>
+	<class>136</class>
+	<polygon>
+		<pt>
+			<x>1</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>76</y>
+		</pt>
+		<pt>
+			<x>39</x>
+			<y>51</y>
+		</pt>
+		<pt>
+			<x>51</x>
+			<y>50</y>
+		</pt>
+		<pt>
+			<x>65</x>
+			<y>51</y>
+		</pt>
+		<pt>
+			<x>73</x>
+			<y>56</y>
+		</pt>
+		<pt>
+			<x>105</x>
+			<y>74</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>87</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>1</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>128</xmax>
+		<ymin>1</ymin>
+		<ymax>87</ymax>
+	</bndbox>
+</objects>

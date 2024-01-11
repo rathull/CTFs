@@ -1,0 +1,104 @@
+<filename>30365827.jpg</filename>
+<folder>/b/bakery/shop</folder>
+<class>10</class>
+<objects>
+	<class>130</class>
+	<polygon>
+		<pt>
+			<x>1</x>
+			<y>128</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>1</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>128</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>128</xmax>
+		<ymin>1</ymin>
+		<ymax>128</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>92</class>
+	<polygon>
+		<pt>
+			<x>29</x>
+			<y>14</y>
+		</pt>
+		<pt>
+			<x>31</x>
+			<y>8</y>
+		</pt>
+		<pt>
+			<x>63</x>
+			<y>5</y>
+		</pt>
+		<pt>
+			<x>63</x>
+			<y>6</y>
+		</pt>
+		<pt>
+			<x>63</x>
+			<y>13</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>29</xmin>
+		<xmax>63</xmax>
+		<ymin>5</ymin>
+		<ymax>14</ymax>
+	</bndbox>
+</objects>
+<objects>
+	<class>92</class>
+	<polygon>
+		<pt>
+			<x>91</x>
+			<y>12</y>
+		</pt>
+		<pt>
+			<x>88</x>
+			<y>7</y>
+		</pt>
+		<pt>
+			<x>89</x>
+			<y>6</y>
+		</pt>
+		<pt>
+			<x>111</x>
+			<y>5</y>
+		</pt>
+		<pt>
+			<x>113</x>
+			<y>2</y>
+		</pt>
+		<pt>
+			<x>116</x>
+			<y>6</y>
+		</pt>
+		<pt>
+			<x>118</x>
+			<y>9</y>
+		</pt>
+		<pt>
+			<x>115</x>
+			<y>12</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>88</xmin>
+		<xmax>118</xmax>
+		<ymin>2</ymin>
+		<ymax>12</ymax>
+	</bndbox>
+</objects>

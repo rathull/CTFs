@@ -1,0 +1,38 @@
+<filename>80240198.jpg</filename>
+<folder>/s/stage/indoor</folder>
+<class>88</class>
+<objects>
+	<class>61</class>
+	<polygon>
+		<pt>
+			<x>128</x>
+			<y>128</y>
+		</pt>
+		<pt>
+			<x>128</x>
+			<y>104</y>
+		</pt>
+		<pt>
+			<x>85</x>
+			<y>128</y>
+		</pt>
+		<pt>
+			<x>63</x>
+			<y>128</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>117</y>
+		</pt>
+		<pt>
+			<x>1</x>
+			<y>128</y>
+		</pt>
+	</polygon>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>128</xmax>
+		<ymin>104</ymin>
+		<ymax>128</ymax>
+	</bndbox>
+</objects>
